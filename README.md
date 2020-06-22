@@ -5,7 +5,7 @@
 </h1>
 
 ## 🔎️ Description
-Back-end side of Repositories project.
+Sandbox of Boot Camp GoStack level 01.
 
 This project was made during the <a href="https://rocketseat.com.br/gostack">GoStack Boot Camp</a> in 2020.
 
